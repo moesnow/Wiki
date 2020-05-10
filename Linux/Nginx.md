@@ -28,6 +28,16 @@ location ~ .*\.(js|css|mp3|mp4|webm|woff2|ico|gif|jpg|jpeg|png|webp|bmp|swf|svg)
 }
 ```
 
+## Autoindex
+
+```Nginx
+autoindex on;
+autoindex_format html;
+autoindex_exact_size off;
+autoindex_localtime on;
+charset utf-8,gbk;
+```
+
 ## Enable SSL
 
 ```bash
