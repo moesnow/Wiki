@@ -15,3 +15,7 @@
 ### Alpine
 
 - `sed -i 's/dl-cdn.alpinelinux.org/mirrors.aliyun.com/g' /etc/apk/repositories`
+
+### Pypi
+
+- `python3 -m pip config set global.index-url https://mirrors.aliyun.com/pypi/simple/`
