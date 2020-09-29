@@ -19,3 +19,7 @@
 ### Pypi
 
 - `python3 -m pip config set global.index-url https://mirrors.aliyun.com/pypi/simple/`
+
+### NPM
+
+- `npm config set registry https://registry.npm.taobao.org/ && npm cache clean -f`
