@@ -2,7 +2,7 @@
 
 > https://help.aliyun.com/document_detail/50452.html
 
-1. `wget http://gosspublic.alicdn.com/ossutil/1.6.12/ossutil64 && chmod 755 ossutil64 && mv ossutil64 /usr/local/bin`
+1. `wget http://gosspublic.alicdn.com/ossutil/1.6.19/ossutil64 && chmod +x ossutil64 && mv ossutil64 /usr/local/bin`
 
 2. `vi ~/.ossutilconfig`
 

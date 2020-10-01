@@ -1,6 +1,14 @@
 # mirror
 
 > http://mirrors.aliyun.com/
+>
+> https://mirrors.huaweicloud.com/
+>
+> https://mirrors.tuna.tsinghua.edu.cn/
+>
+> https://mirrors.cloud.tencent.com/
+>
+> http://mirrors.ustc.edu.cn/
 
 ### Debian
 
