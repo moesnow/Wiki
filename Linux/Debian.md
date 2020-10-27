@@ -10,7 +10,9 @@
 zh_CN.UTF-8 UTF-8
 ```
 
-3. `vi /etc/default/locale`
+3. `locale-gen`
+
+4. `vi /etc/default/locale`
 
 ```vim
 LANG="zh_CN.UTF-8"
