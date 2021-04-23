@@ -24,6 +24,10 @@
 
 - `sed -i 's/dl-cdn.alpinelinux.org/mirrors.aliyun.com/g' /etc/apk/repositories`
 
+### OpenWrt
+
+- `sed -i 's/downloads.openwrt.org/mirrors.cloud.tencent.com\/openwrt/g' /etc/opkg/distfeeds.conf`
+
 ### Pypi
 
 - `python3 -m pip config set global.index-url https://mirrors.aliyun.com/pypi/simple/`
