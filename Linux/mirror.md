@@ -26,6 +26,7 @@
 
 ### OpenWrt
 
+- `sed -i 's/downloads.openwrt.org/mirrors.aliyun.com\/openwrt/g' /etc/opkg/distfeeds.conf`
 - `sed -i 's/downloads.openwrt.org/mirrors.cloud.tencent.com\/openwrt/g' /etc/opkg/distfeeds.conf`
 
 ### Pypi
