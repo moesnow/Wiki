@@ -4,6 +4,7 @@
   - [Nginx](Linux/Nginx.md)
   - [Docker](Linux/Docker.md)
   - [Debian](Linux/Debian.md)
+  - [sshd](Linux/sshd.md)
   - [mirror](Linux/mirror.md)
   - [swap](Linux/swap.md)
   - [ossutil](Linux/ossutil.md)

@@ -1,0 +1,3 @@
+# sshd
+
+`ClientAliveInterval 30`
