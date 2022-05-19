@@ -35,4 +35,4 @@
 
 ### NPM
 
-- `npm config set registry https://registry.npm.taobao.org/ && npm cache clean -f`
+- `npm config set registry https://registry.npmmirror.com/ && npm cache clean -f`
