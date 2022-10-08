@@ -130,6 +130,7 @@ server {
     server_name _;
     ssl_certificate         /path/to/certificate.crt;
     ssl_certificate_key     /path/to/privateKey.key;
+    ssl_reject_handshake on; # Nginx 1.19.4
     return 444;
 }
 ```
