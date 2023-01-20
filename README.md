@@ -1,3 +1,3 @@
 # Wiki
 
-> Just a wiki :smile:
+> Just a personal wiki :smile:
