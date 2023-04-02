@@ -2,10 +2,11 @@
 
 > https://ohmyz.sh/
 
-1. Debian & Ubuntu
-`apt install -y zsh git`
-Centos
-`yum install -y zsh git`
+1. Debian
+  `sudo apt install -y zsh git`
+
+  Centos
+  `sudo yum install -y zsh git`
 
 2. `sh -c "$(curl -fsSL https://raw.github.com/ohmyzsh/ohmyzsh/master/tools/install.sh)"`
 

@@ -1,8 +1,12 @@
 # Docker
 
-1. `curl -fsSL get.docker.com | sh -s docker --mirror Aliyun`
+1. Debian
+   `sudo apt install -y docker.io`
 
-2. `vi /etc/docker/daemon.json`
+   Other
+    `curl -fsSL get.docker.com | sh -s docker --mirror Aliyun`
+
+2. Optional `sudo vi /etc/docker/daemon.json`
 
 ```Vim
 {
@@ -10,9 +14,9 @@
 }
 ```
 
-2. `systemctl enable docker`
+2. `sudo systemctl enable docker`
 
-3. `systemctl start docker`
+3. `sudo systemctl start docker`
 
-4. `usermod -aG docker $USER`
+4. Optional `sudo usermod -aG docker $USER`
 

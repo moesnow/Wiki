@@ -18,6 +18,6 @@ zh_CN.UTF-8 UTF-8
 
 ## zram
 
-1. `sudo apt install zram-tools`
+1. `sudo apt install -y zram-tools`
 2. `echo -e "ALGO=zstd\nPERCENT=60" | sudo tee -a /etc/default/zramswap`
 3. `sudo systemctl reload zramswap.service`

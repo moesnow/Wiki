@@ -9,16 +9,25 @@
   - [swap](Linux/swap.md)
   - [ossutil](Linux/ossutil.md)
   - [coscmd](Linux/coscmd.md)
+  
 - Android
+  
   - [Termux](Android/Termux.md)
+  
 - Docker
   - [Tengine](Docker/Tengine.md)
   - [PHP](Docker/PHP.md)
   - [Mysql](Docker/Mysql.md)
   - [acme.sh](Docker/acme.sh.md)
-- Macos
-  - [Github](Macos/Github.md)
+  
+- macOS
+  - [General](macOS/General.md)
+  - [Hackintosh](macOS/Hackintosh.md)
+  - [Github](macOS/Github.md)
 - [CSS](CSS.md)
+
 - Minecraft
   - [Mapcrafter](Minecraft/Mapcrafter.md)
   - [Overviewer](Minecraft/Overviewer.md)
+  
+- [Kaomoji](Kaomoji.md)
