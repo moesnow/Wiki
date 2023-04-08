@@ -9,10 +9,10 @@
 打开终端依次输入命令运行：
 
 ```bash
-defaults write com.apple.AppleGVA gvaForceAMDKE -bool YES
-defaults write com.apple.AppleGVA gvaForceAMDAVCEncode -bool YES
-defaults write com.apple.AppleGVA gvaForceAMDAVCDecode -bool YES
-defaults write com.apple.AppleGVA gvaForceAMDHEVCDecode -bool YES
+defaults write com.apple.AppleGVA gvaForceAMDKE -bool yes
+defaults write com.apple.AppleGVA gvaForceAMDAVCEncode -bool yes
+defaults write com.apple.AppleGVA gvaForceAMDAVCDecode -bool yes
+defaults write com.apple.AppleGVA gvaForceAMDHEVCDecode -bool yes
 ```
 
 这个操作之后剪辑视频时候核显就不参与视频解码加速。
