@@ -24,6 +24,9 @@
   - [General](macOS/General.md)
   - [Hackintosh](macOS/Hackintosh.md)
   - [Github](macOS/Github.md)
+
+- [FFmpeg](FFmpeg.md)
+
 - [CSS](CSS.md)
 
 - Minecraft
