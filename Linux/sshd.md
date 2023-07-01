@@ -2,7 +2,7 @@
 
 `PermitRootLogin no`
 
-`PasswordAuthentication yes`
+`PasswordAuthentication no`
 
 `ClientAliveInterval 120`
 
