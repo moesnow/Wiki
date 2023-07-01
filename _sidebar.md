@@ -33,5 +33,5 @@
 - [Kaomoji](Kaomoji.md)
 
 - Git
-  - [Config](Config.md)
-  - [Github](Github.md)
+  - [Config](Git/Config.md)
+  - [Github](Git/Github.md)
