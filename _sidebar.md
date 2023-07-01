@@ -31,4 +31,7 @@
   - [Overviewer](Minecraft/Overviewer.md)
   
 - [Kaomoji](Kaomoji.md)
-- [Github](Github.md)
+
+- Git
+  - [Config](Config.md)
+  - [Github](Github.md)
