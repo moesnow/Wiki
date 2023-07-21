@@ -11,3 +11,7 @@
 [commit]
 	gpgsign = true
 ```
+
+```shell
+git config --global gpg.program "$(which gpg)"
+```
