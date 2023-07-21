@@ -24,6 +24,7 @@
   - [General](macOS/General.md)
   - [Hackintosh](macOS/Hackintosh.md)
   - [Github](macOS/Github.md)
+  - [AppleScript](macOS/AppleScript.md)
 
 - [FFmpeg](FFmpeg.md)
 
