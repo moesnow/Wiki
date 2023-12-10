@@ -14,4 +14,4 @@
 
 4. `git clone https://github.com/zsh-users/zsh-autosuggestions ${ZSH_CUSTOM:-~/.oh-my-zsh/custom}/plugins/zsh-autosuggestions`
 
-5. `sed -i 's/(git)/(git z zsh-syntax-highlighting zsh-autosuggestions docker sudo hitokoto)/g' ~/.zshrc && source ~/.zshrc`
+5. `sed -i 's/(git)/(git z zsh-syntax-highlighting zsh-autosuggestions sudo)/g' ~/.zshrc && source ~/.zshrc`
